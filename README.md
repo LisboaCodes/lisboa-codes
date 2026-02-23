@@ -87,6 +87,7 @@ MySQL • MariaDB • PostgreSQL
 
 📧 lisboa.codes@gmail.com  
 📷 Instagram: @lisboacodes  
+💼 LinkedIn: lisboacodes
 ---
 
 ☕ Café, código e constância.
