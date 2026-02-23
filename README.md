@@ -88,6 +88,8 @@ MySQL • MariaDB • PostgreSQL
 📧 lisboa.codes@gmail.com  
 📷 Instagram: @lisboacodes  
 💼 LinkedIn: lisboacodes
+🌐 https://lisboa.creativenext.com.br  
+🔗 ORCID: https://orcid.org/0009-0007-4295-8240  
 ---
 
 ☕ Café, código e constância.
